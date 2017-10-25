@@ -11,7 +11,6 @@ function primeCheck (n) {
   counter++
 }
 
-
   while(counter !== param1) {
     primeCheck (primeNumber)
       primeNumber++
