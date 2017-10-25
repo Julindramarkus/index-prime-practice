@@ -21,3 +21,4 @@ return primeNumber-1;
 console.log(indexPrime(4));
 console.log(indexPrime(500));
 console.log(indexPrime(100));
+console.log(indexPrime(37786));
